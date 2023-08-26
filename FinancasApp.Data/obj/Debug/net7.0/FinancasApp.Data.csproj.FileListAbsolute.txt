@@ -1,0 +1,14 @@
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\bin\Debug\net7.0\FinancasApp.Data.deps.json
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\bin\Debug\net7.0\FinancasApp.Data.runtimeconfig.json
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\bin\Debug\net7.0\FinancasApp.Data.dll
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\bin\Debug\net7.0\FinancasApp.Data.pdb
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.csproj.AssemblyReference.cache
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.AssemblyInfoInputs.cache
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.AssemblyInfo.cs
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.csproj.CoreCompileInputs.cache
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.dll
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\refint\FinancasApp.Data.dll
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.pdb
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\FinancasApp.Data.genruntimeconfig.cache
+C:\curso_csharp\ProjetoWebAula07\FinancasApp\FinancasApp.Data\obj\Debug\net7.0\ref\FinancasApp.Data.dll
